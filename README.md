@@ -20,7 +20,7 @@ A Flutter application designed to help students manage their study sessions and 
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/TMB27/studdybuddy
 ```
 
 2. Install dependencies:
